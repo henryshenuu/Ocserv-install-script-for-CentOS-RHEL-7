@@ -1,7 +1,6 @@
 #!/bin/bash
 ####################################################
 #                                                  #
-# This is a ocserv installation for CentOS 7       #
 # Version: 1.2.5 20151009                          #
 # Author: Travis Lee                               #
 # Website: https://www.stunnel.info                #
